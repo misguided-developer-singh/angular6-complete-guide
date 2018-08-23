@@ -1,0 +1,5 @@
+npm install --save bootstrap@3
+
+npm start (or) ng serve
+
+ng generate component servers
